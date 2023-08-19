@@ -1,9 +1,9 @@
-# Hello there, I'm Anindit Pati 👋
+## Hello there, I'm Anindit Pati 👋
 
 
-## About me:
+### About me:
 
-- I am currently a 12th grader in California
+- I am currently a 12th grader in California 
 - Sports I play: Basketball and Track and Field 
 - A musician (sort of)
 - Semi-Graphic Designer
@@ -12,8 +12,8 @@
 - Professional gamer (100% real) 
 
 
-## Projects
-(going to put them in soon)  
+### Projects
+[Inkball](https://skparab1.github.io/inkball)
 
 
 <!--
