@@ -13,7 +13,7 @@
 
 
 ### Projects
-[Inkball](https://skparab1.github.io/inkball)
+- [Inkball]((https://github.com/skparab1/Inkball)) - A Canvas implementation of the Windows game inkball by Shubham Parab, Anindit Pati, Advaita Guruprasad, Ritam Chakraborty, and Snehil Kakani. You can play the game [here](https://skparab1.github.io/inkball)
 
 
 <!--
