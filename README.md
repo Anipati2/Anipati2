@@ -1,7 +1,7 @@
 ## Hello there, I'm Anindit Pati 👋
 
 
-### About me:
+### About me
 
 - I am currently a 12th grader in California 
 - Sports I play: Basketball and Track and Field 
