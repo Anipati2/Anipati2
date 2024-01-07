@@ -4,7 +4,7 @@
 ### About me
 
 - I am currently a 12th grader in California 
-- Sports I play: Basketball and Track and Field 
+- Sports I play: Basketball, Track and Field 
 - A musician (sort of)
 - Semi-Graphic Designer
 - Knows how to code in Python, a bit of HTML, and a bit of CSS
